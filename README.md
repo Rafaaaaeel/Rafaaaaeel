@@ -5,5 +5,5 @@ Looking up for an opportunity 😄
 
 <div align="center">
   <a href="https://github.com/Rafaaaaeel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaaaaeel&layout=Demo&langs_count=7&theme=Demo"/>
+  <img height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaaaaeel&layout=Demo&langs_count=7&theme=Demo"/>
 </div>
